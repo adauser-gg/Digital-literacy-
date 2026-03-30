@@ -38,3 +38,11 @@ This repository contains my portfolio for the Digital Literacy course. As a Stud
 ### Module 5: Cybercrime Awareness Case Study & Prevention
 * **Summary:** Researching online threats relevant to college students. This module includes a case study on UPI payment fraud and a comprehensive checklist for staying safe online.
 * **Deliverables:** Located in the `task-5-cybercrime/` folder.
+
+## Report
+The complete project report is available in the `report/` folder.
+
+---
+
+## Conclusion
+This project strengthened my understanding of digital literacy and improved my ability to use online tools responsibly and professionally.
